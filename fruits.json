@@ -1,3 +1,4 @@
 {
-    "fruits": ["Apple", "Orange", "Papaya", "Passion Fruit"]
+    "fruits": ["Apple", "Orange", "Papaya", "Passion Fruit"],
+    "defaultFruit": "Mandarine"
 }
